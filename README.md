@@ -1,6 +1,6 @@
 # Daily-Work-Blog
 
-# TRAINING AND INTERNSHIP PROGRAMME
+# TRAINING AND INTERNSHIP PROGRAMME :point_down:
 All about the six month training and intership in Software Development Centre in GNDEC
 
  ## :arrow_right: *DAY 1 (12/07/2022)*
