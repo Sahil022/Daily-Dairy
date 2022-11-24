@@ -32,7 +32,7 @@ All about the six month training and intership in Software Development Centre in
 ##  :arrow_right: *DAY 4/DAY 5/DAY 6 (15/07/2022 to 17/072022)*
 
 - As the frappe was installed, the futher reading process about the usage of the framework was done. 
-- The LIBERARY MANAGMENT SYSTEM was initialted and the doctypes were created, beside that the Markdown lanuage was also read and the cheatsheets were read to know about the different tags in the later language. 
+- The LIBRARY MANAGMENT SYSTEM was initialted and the doctypes were created, beside that the Markdown lanuage was also read and the cheatsheets were read to know about the different tags in the later language. 
 - This took us 2 days.
 
 
