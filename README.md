@@ -3,7 +3,7 @@
 # TRAINING AND INTERNSHIP PROGRAMME :point_down:
 All about the six month training and intership in Software Development Centre in GNDEC
 
- ## :arrow_right: *DAY 1 (12/07/2022)*
+ ## :arrow_right: *DAY 1 (19/07/2022)*
 ### *Installation of the linux*
 
 
@@ -14,14 +14,14 @@ All about the six month training and intership in Software Development Centre in
 - This activity  took about one day.
 
 
-## :arrow_right: *DAY 2 (13/07/2022)*
+## :arrow_right: *DAY 2 (20/07/2022)*
 
 
 - Read about the frappe framework, its functionalities and advantage along with its installation process.
 - Beside that looked over the lamp that was told to install earlier.
 
 
-## :arrow_right: *DAY 3 (14/07/2022)*
+## :arrow_right: *DAY 3 (21/07/2022)*
 
 
 - Went on to the frappe framework offficial page and headed with the  installation process and kept on recovering the erros. 
@@ -29,65 +29,67 @@ All about the six month training and intership in Software Development Centre in
 - The then used instructionn manual was(https://github.com/D-codE-Hub/Guide-to-Install-Frappe-ERPNext-in-Ubuntu-22.04-LTS) for the proper installation of the later.
 
 
-##  :arrow_right: *DAY 4/DAY 5/DAY 6 (15/07/2022 to 17/072022)*
+##  :arrow_right: *DAY 4/DAY 5 (22/07/2022 - 23/072022)*
 
 - As the frappe was installed, the futher reading process about the usage of the framework was done. 
 - The LIBRARY MANAGMENT SYSTEM was initialted and the doctypes were created, beside that the Markdown lanuage was also read and the cheatsheets were read to know about the different tags in the later language. 
 - This took us 2 days.
 
 
-##  :arrow_right: *DAY 7 (18/07/2022)*
+##  :arrow_right: *DAY 6 (24/07/2022)*
+
+Sunday - Fun Day
+
+
+##  :arrow_right: *DAY 7 (25/07/2022)*
 
 
 - Today i go through the some steps of Library Management and implement in frameframework.
 
 
-##  :arrow_right: *DAY 8 (19/07/2022)*
+##  :arrow_right: *DAY 8 (26/07/2022)*
 
 
 - Today i go through the library managements features like- Library Membership,Linked Doctypes,Controller validation for membership, Library Transaction, Library Settings and some features of form scripts.  
 
 
-##  :arrow_right: *DAY 9 (20/07/2022)*
+##  :arrow_right: *DAY 9 (27/07/2022)*
 
 
 - Today i am completing all the steps of Library Management System like- create a doctype, doctype features, controllers methods, types of doctype, form scripts and so on.
 - After complition of Library Mannagement System i can enable all the features of web pages and i can view all information of web pages on the local server.
 
 
-##  :arrow_right: *DAY 10 (21/07/2022)*
+##  :arrow_right: *DAY 10 (28/07/2022)*
 
 
 - Today i am completed the frappe Library Management and view the articles and articles list on web pages.
 - Now i am starting the work to make the webpage to show the students list, mentor list & students mentor list by searching student name and mentor name. 
 
 
-## :arrow_right: *DAY 11 (22/07/2022)*
+## :arrow_right: *DAY 11 (29/07/2022)*
 
 
 - Full review on library management system
-- Working on mentor-mentee project
+- Reading Guidelines for official email methods.
 
 
-## :arrow_right: *DAY 12 (23/07/2022)*
+## :arrow_right: *DAY 12/13 (30/07/2022 - 31/07/2022)*
 
 
-- Working on intrusion detetction system using artificial neural networks so we can use live data.
-- Read all the research paper of IDS
-- Read about Snort and Suricata
-- Implement Snort on local machines
+Saturday - Sunday (Off)
 
 
-## :arrow_right: *DAY 13 (25/07/2022)*
+
+## :arrow_right: *DAY 13 (01/08/2022)*
 
 
-- Working Mentor Mentee system on Frappe according to requiremnts like septate student or mentor table
 - Got the task of making Financial system in erp.gndec.ac.in
 - Took two more members suggested by sir (Raghav,Simran)
 - Started work on this from this day.
 
 
-## :arrow_right: *DAY 14 (26/07/2022)*
+## :arrow_right: *DAY 14 (02/08/2022)*
 
 
 - Understand the full structure of (erp.gndec.ac.in)
@@ -95,7 +97,7 @@ All about the six month training and intership in Software Development Centre in
 - Install ubuntu on team-mate system
 
 
-## :arrow_right: *DAY 15 (27/07/2022)*
+## :arrow_right: *DAY 15 (03/08/2022)*
 
 
 - Install Conda and create virtual environment
@@ -105,7 +107,7 @@ All about the six month training and intership in Software Development Centre in
 - Install Erpnext -V 13
 
 
-## :arrow_right: *DAY 16 (28/07/2022)*
+## :arrow_right: *DAY 16 (04/08/2022)*
 
 
 - Reading Education Domain with fully understanding
@@ -124,7 +126,7 @@ All about the six month training and intership in Software Development Centre in
 - Education Settings
 
 
-## :arrow_right: *DAY 17 (29/07/2022)*
+## :arrow_right: *DAY 17 (05/08/2022)*
 
 
 - Implement education domain in test server (gne11.gndec.ac.in)
@@ -132,7 +134,7 @@ All about the six month training and intership in Software Development Centre in
 - Allot room according to course, Programs and So on.
 
 
-## :arrow_right: *DAY 18 (30/07/2022)*
+## :arrow_right: *DAY 18 (06/08/2022)*
 
 
 - Today seminar off because our Infosys SP & DSE Exam
@@ -141,7 +143,7 @@ All about the six month training and intership in Software Development Centre in
 ### :arrow_right: *DAY 19 (01/08/2022)*
 
 
-Design database for mentor-mentee using keys.
+Understand the concept of Learning Management System 
 
 - Create Student Table        [seprate]
 - Create Mentor Table         [seprate]
@@ -192,7 +194,7 @@ Design database for mentor-mentee using keys.
 - how we can write script of it
 
 
-### :arrow_right: *DAY 25 (17/08/2022)*
+### :arrow_right: *DAY 25 (07/08/2022)*
 
 
 Sunday - Fun Day
@@ -213,7 +215,7 @@ Sunday - Fun Day
 
 ### :arrow_right: *DAY 28 (10/08/2022)*
 
-#### Given by Satndrpal Sir
+#### Given by Satinderpal Sir
 
 
 1.  Student Admission
@@ -246,8 +248,8 @@ Sunday - Fun Day
 ### :arrow_right: *DAY 31 (13/08/2022)*
 
 
-- Give Presentation on fee & admission part, report made by simran
-- Under the concept of virtual environment by Tavleen Kaur [ 2nd year CSE ]
+- Give Presentation on fee & admission part 
+- Understand the concept of virtual environment by Tavleen Kaur [ 2nd year CSE ]
 - Give work to tavleen kaur on The Unix Shell [ Linux Commands ]
 - Understand what is fet & how we can design the timetabe for any school and institution.
 
@@ -289,10 +291,8 @@ Like - SSO Implementation, LDAP installation and Configuration.
 ### :arrow_right: *DAY 36 (18/08/2022)*
 
 - Explore HR Module
-- Show the fetched values of the mentor-mentee on the webpage with the use of context script
 - start work on new project WMS Construction and MAintenance Cell
-- Add the Load More button on the right side of the page on the frappe
-- Add search button on the webpage of the mentor mentee
+
 
 ### :arrow_right: *DAY 37 (19/08/2022)*
 
@@ -318,28 +318,27 @@ Sunday FUN - day
 
 ### :arrow_right: *DAY 40 (22/08/2022)*
 
-- Morning Classes
 - find the admission fee in erp.gndec.ac.in
 - And did some other works related to projects.
-- Mentor - Mentee project is finished
+
 
 ### :arrow_right: *DAY 41 (23/08/2022)*
 
 - Argusoft pre-placement talks starts at 8:30 AM
 - Then exam at 12'o clock.
 
+
+### :arrow_right: *DAY 42 to 64 (23/08/2022 to 15/09/2022)*
+
+I was critically ill due to major loss of platelets and swelling in liver due to infection. For which I reported to Rai Sir and he granted me leave until I'll get well. 
+
+
+### :arrow_right: *DAY 66 (18/10/2022)*
+
+
+
+
 ### :arrow_right: *DAY 1 (18/10/2022)*
 
-#### Today Targets :
-
-1. Comlplete the employee data CSV file.
-2. Study about data fields in v13 and v14.
-3. Also focus on cmc project and so on.
 
 
-### :arrow_right: *DAY 1 (22/11/2022)*
-
-#### Today Targets :
-
-1. 10 to 11 AM mail reading
-2. Install gamepaln
