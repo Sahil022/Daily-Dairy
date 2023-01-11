@@ -321,17 +321,38 @@ Sunday FUN - day
 - Then exam at 12'o clock.
 
 
-### :arrow_right: *DAY 42 to 58 (31/08/2022 to 15/09/2022)*
+### :arrow_right: *DAY 42 to 61 (31/08/2022 to 18/09/2022)*
 
 I was critically ill due to major loss of platelets and swelling in liver due to infection. For which I reported to Rai Sir and he granted me leave until I'll get well. 
 
 
-### :arrow_right: *DAY 59 (18/10/2022)*
+### :arrow_right: *DAY 62 (19/10/2022)*
+
+- When I came after got well, my team-mates are assigned with differents projects and different tasks including CMC, but I was not assined in any.
+- I showed my interest in CMC as I made the rough flowchart of it and present it to everyone.
+- After this, Sir included me in it .
 
 
 
+### :arrow_right: *DAY 63 (20/10/2022)*
 
-### :arrow_right: *DAY 1 (18/10/2022)*
+- Now I have fully understand its infrastructure and working process. 
+- The work starts with making the doctype of Construction and maintenance cell.
+- In this we need a webform, so we learnt how to make the webform in erpNext.
+
+
+
+### :arrow_right: *DAY 64 (21/10/2022)*
+
+- Today we need to add mendatory and non-mendatory fields in the webform which are required to fill a complaint. 
+- For this, we discussed in a meeting that which fields are to be added.
+- Made a rough of them
+
+
+
+### :arrow_right: *DAY 65 (22/10/2022)*
+
+ - We add the required fields,
 
 
 
