@@ -137,41 +137,26 @@ Saturday - Sunday (Off)
 ## :arrow_right: *DAY 18 (06/08/2022)*
 
 
-- Today seminar off because our Infosys SP & DSE Exam
-- Prepare for Exam
-
-### :arrow_right: *DAY 19 (01/08/2022)*
+- Today seminar off because I have to prepare for Infosys Exam
 
 
-Understand the concept of Learning Management System 
+### :arrow_right: *DAY 19 (07/08/2022)*
 
-- Create Student Table        [seprate]
-- Create Mentor Table         [seprate]
-- Create Mentor_Mentee Table  [seprate]
-- Front-end is done
-- It shows primary key values
-- According to our need we can get Names as well..
+Sunday - Fun Day
 
 
-### :arrow_right: *DAY 20 (02/08/2022)*
+### :arrow_right: *DAY 19 (08/08/2022)*
 
 
-- Focus on Mentor-Mentee 
-- Read and undersytand library mamagement system with full concentaration
-- Understand Jinja2 Template and its tools, syntax
-- make project more efficient using templates and jinja2 tool
+Understand the concept of Learning Management System in which I explore below in detail
+
+- Program 
+- Course
+- Topic
 
 
-### :arrow_right: *DAY 21 (03/08/2022)*
 
-
-- Fetch the student name and mentor name through primary keys
-- fetch the name through keys its tutoril is not given i can try itself.
-- Give presentation on Mentor-Mentee
-- New Task ----> webpage [ create one webpage and fetch the values another table ]
-
-
-### :arrow_right: *DAY 22 (04/08/2022)*
+### :arrow_right: *DAY 20 (09/08/2022)*
 
 
 - Create a demo web page
@@ -179,14 +164,14 @@ Understand the concept of Learning Management System
 - Now i am exploring the webpage documentation and its features
 
 
-### :arrow_right: *DAY 23 (05/08/2022)*
+### :arrow_right: *DAY 21 (10/08/2022)*
 
 - Working on webpage
 - understand context script
 - use frontend tool of webpage
 
 
-### :arrow_right: *DAY 24 (06/08/2022)*
+### :arrow_right: *DAY 22 (11/08/2022)*
 
 
 - Saturday seminar
@@ -194,14 +179,25 @@ Understand the concept of Learning Management System
 - how we can write script of it
 
 
-### :arrow_right: *DAY 25 (07/08/2022)*
+### :arrow_right: *DAY 23 (12/08/2022)*
+
+- Explore What is Workflow, its types and how to make workflow in erpNext.
+- Create a demo workflow of Student Leave Application.
+
+
+### :arrow_right: *DAY 24 (13/08/2022)*
+
+-Today I give seminar of workflow 
+
+
+### :arrow_right: *DAY 25 (14/08/2022)*
 
 
 Sunday - Fun Day
 
 
 
-### :arrow_right: *DAY 26 (08/08/2022)*
+### :arrow_right: *DAY 26 (15/08/2022)*
 
 
 - getting error when i'm using context script
@@ -209,11 +205,11 @@ Sunday - Fun Day
 - work on fee structure on education domain.
 
 
-### :arrow_right: *DAY 27 (09/08/2022)*
+### :arrow_right: *DAY 27 (16/08/2022)*
 
 - Search the helpfull tutorial for the context script so we can understand it.
 
-### :arrow_right: *DAY 28 (10/08/2022)*
+### :arrow_right: *DAY 28 (17/08/2022)*
 
 #### Given by Satinderpal Sir
 
@@ -231,21 +227,21 @@ Sunday - Fun Day
 11. Student Applicant
 
 
-### :arrow_right: *DAY 29 (11/08/2022)*
+### :arrow_right: *DAY 29 (18/08/2022)*
 
 
 - Raksha Bandhan
 - Only Work on Admission Part
 
 
-### :arrow_right: *DAY 30 (12/08/2022)*
+### :arrow_right: *DAY 30 (19/08/2022)*
 
 
 - Work on Student Fees
 - Generate Fee Slip
 
 
-### :arrow_right: *DAY 31 (13/08/2022)*
+### :arrow_right: *DAY 31 (20/08/2022)*
 
 
 - Give Presentation on fee & admission part 
@@ -254,21 +250,19 @@ Sunday - Fun Day
 - Understand what is fet & how we can design the timetabe for any school and institution.
 
 
-### :arrow_right: *DAY 32 (14/08/2022)*
+### :arrow_right: *DAY 32 (21/08/2022)*
 
 
 Sunday day - Fun day 
 
 
-### :arrow_right: *DAY 33 (15/08/2022)*
+### :arrow_right: *DAY 33 (22/08/2022)*
 
 
-- Happy Independence Day [ 75th ]
-- Work From Home
 - Work on Fee option and receipt
 
 
-### :arrow_right: *DAY 34 (16/08/2022)*
+### :arrow_right: *DAY 34 (23/08/2022)*
 
 
 - Work on Accounting
@@ -276,7 +270,7 @@ Sunday day - Fun day
 - Lead Management
 
 
-### :arrow_right: *DAY 35 (17/08/2022)*
+### :arrow_right: *DAY 35 (24/08/2022)*
 
 
 - HR Module
@@ -288,19 +282,19 @@ Sunday day - Fun day
 Like - SSO Implementation, LDAP installation and Configuration.
 
 
-### :arrow_right: *DAY 36 (18/08/2022)*
+### :arrow_right: *DAY 36 (25/08/2022)*
 
 - Explore HR Module
 - start work on new project WMS Construction and MAintenance Cell
 
 
-### :arrow_right: *DAY 37 (19/08/2022)*
+### :arrow_right: *DAY 37 (26/08/2022)*
 
 - Create and design the table of the user of the webpage on https://gne11.gndec.ac.in/user 
 - Discuss the workflow of CMC 
 - start work on CMC and also work to design the flow chart of the CMC so we can easily understand its depth
 
-### :arrow_right: *DAY 38 (20/08/2022)*
+### :arrow_right: *DAY 38 (27/08/2022)*
 
 #### Saturday Seminar
 
@@ -309,31 +303,30 @@ Like - SSO Implementation, LDAP installation and Configuration.
 - Discuss some topics of NSPS Project.
 
 
-### :arrow_right: *DAY 39 (21/08/2022)*
+### :arrow_right: *DAY 39 (28/08/2022)*
 
 Sunday FUN - day
 
-- Lived the webpage from the public_html [ Home Directory ] https://gne2.gndec.ac.in/~deepak526/
 
 
-### :arrow_right: *DAY 40 (22/08/2022)*
+### :arrow_right: *DAY 40 (29/08/2022)*
 
 - find the admission fee in erp.gndec.ac.in
 - And did some other works related to projects.
 
 
-### :arrow_right: *DAY 41 (23/08/2022)*
+### :arrow_right: *DAY 41 (30/08/2022)*
 
 - Argusoft pre-placement talks starts at 8:30 AM
 - Then exam at 12'o clock.
 
 
-### :arrow_right: *DAY 42 to 64 (23/08/2022 to 15/09/2022)*
+### :arrow_right: *DAY 42 to 58 (31/08/2022 to 15/09/2022)*
 
 I was critically ill due to major loss of platelets and swelling in liver due to infection. For which I reported to Rai Sir and he granted me leave until I'll get well. 
 
 
-### :arrow_right: *DAY 66 (18/10/2022)*
+### :arrow_right: *DAY 59 (18/10/2022)*
 
 
 
