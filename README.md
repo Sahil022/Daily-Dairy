@@ -402,11 +402,28 @@ Sunday day - Fun day
 ### :arrow_right: *DAY 72 (29/09/2022)*
 
  - As our level wise flow doesn't work properly, so after a lot of struggle and exploration, what we observed that all the requests are viewed in list view
- - So we can filter them accroding to their name of states for particular users. Like Hod user can only be able to se the requests which are in pending state and SDE can be able to see only those requests which are in forwarded states
+ - So we can filter them according to their name of states for particular users. Like Hod user can only be able to se the requests which are in pending state and SDE can be able to see only those requests which are in forwarded states
  - So we make complete setup of filters as we needed and this issue has been resolved successfully.
 
 
 ### :arrow_right: *DAY 73 (30/09/2022)*
 
- - Today, we showed all t
+ - Today, we showed to sir how I resolve the issue by using the filters and then I continue my task. 
+ - My next target is to make the workflow conditional, in such a way that the request from a particular department should only shows to the Head of same department.
+ - For this, following the rule of self service, I explored how conditional workflow works and what conditions should be applicable for that.
+
+
+### :arrow_right: *DAY 74 (01/10/2022)*
+
+ - Today seminars off
+
+
+### :arrow_right: *DAY 75 (02/10/2022)*
+
+Sunday day - Fun day 
+
+
+### :arrow_right: *DAY 76 (03/10/2022)*
+
+
 
