@@ -397,13 +397,16 @@ Sunday day - Fun day
  - Roles and users are:
    -  SDE (Sub Divisional Engineer)
    -  CMC Head (Head of Construction and Maintenance Cell).
- 
+ - Along with this, we also set some permissions of them.
+
+### :arrow_right: *DAY 72 (29/09/2022)*
+
+ - As our level wise flow doesn't work properly, so after a lot of struggle and exploration, what we observed that all the requests are viewed in list view
+ - So we can filter them accroding to their name of states for particular users. Like Hod user can only be able to se the requests which are in pending state and SDE can be able to see only those requests which are in forwarded states
+ - So we make complete setup of filters as we needed and this issue has been resolved successfully.
 
 
+### :arrow_right: *DAY 73 (30/09/2022)*
 
-
-
-
-
-
+ - Today, we showed all t
 
