@@ -371,6 +371,6 @@ I was critically ill due to major loss of platelets and swelling in liver due to
 
 
 
-### :arrow_right: *DAY 6 (25/09/2022)*
+### :arrow_right: *DAY 68 (25/09/2022)*
 
 Sunday day - Fun day 
