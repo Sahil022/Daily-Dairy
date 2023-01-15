@@ -326,7 +326,7 @@ Sunday FUN - day
 I was critically ill due to major loss of platelets and swelling in liver due to infection. For which I reported to Rai Sir and he granted me leave until I'll get well. 
 
 
-### :arrow_right: *DAY 62 (19/10/2022)*
+### :arrow_right: *DAY 62 (19/09/2022)*
 
 - When I came after got well, my team-mates are assigned with differents projects and different tasks including CMC, but I was not assined in any.
 - I showed my interest in CMC as I made the rough flowchart of it and present it to everyone.
@@ -334,7 +334,7 @@ I was critically ill due to major loss of platelets and swelling in liver due to
 
 
 
-### :arrow_right: *DAY 63 (20/10/2022)*
+### :arrow_right: *DAY 63 (20/09/2022)*
 
 - Now I have fully understand its infrastructure and working process. 
 - The work starts with making the doctype of Construction and maintenance cell.
@@ -342,17 +342,35 @@ I was critically ill due to major loss of platelets and swelling in liver due to
 
 
 
-### :arrow_right: *DAY 64 (21/10/2022)*
+### :arrow_right: *DAY 64 (21/09/2022)*
 
 - Today we need to add mendatory and non-mendatory fields in the webform which are required to fill a complaint. 
 - For this, we discussed in a meeting that which fields are to be added.
-- Made a rough of them
+- Made a rough of them.
 
 
 
-### :arrow_right: *DAY 65 (22/10/2022)*
+### :arrow_right: *DAY 65 (22/09/2022)*
 
- - We add the required fields,
+ - Today we add the required fields.
+ - Then I made a workflow with CMC doctype in whch I create some states correspondence to respective users.
+ - Also I add some transition rules in the workflow in which actions are made for the users in the way, how we turn the flow of request on the basis of that actions like "Approve" action for approve the request and "Reject" action for rejection. 
+
+
+### :arrow_right: *DAY 67 (23/09/2022)*
+
+ - Now its time to show the states and actions made in workflow to subordinates and whole team.
+ - Okay so we discuss about it, all is well till now, Sir said me to do some changes and we also discuss about conditional workflow.
 
 
 
+### :arrow_right: *DAY 67 (24/09/2022)*
+
+ - In today's seminars, our taam members also show their progress in their assigned tasks, and they noted which things are need to be changed
+ - Also some teammates are facing some issues and we dicussed how to resolve them.
+
+
+
+### :arrow_right: *DAY 6 (25/09/2022)*
+
+Sunday day - Fun day 
