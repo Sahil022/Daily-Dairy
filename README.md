@@ -448,8 +448,15 @@ Happy Dussehra!
  - We are back and we continued our latest pending task form where we left it. 
  - So after a lot of struggle, finally we make a query with the help of which we are able to fetch the department of employee who puts the request successfully.
  - Below is database query:
- --
-
+var = frappe.db.sql("""
+    select
+        e.department
+    from
+        tabDepartment as d join tabEmployee as e on e.department = d.name
+    where
+        e.user_id=%s
+    """, frappe.session.user)
+doc.department=var[0][0] 
 
 
 
