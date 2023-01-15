@@ -425,5 +425,35 @@ Sunday day - Fun day
 
 ### :arrow_right: *DAY 76 (03/10/2022)*
 
+ - To fulfill the requirement, I need to find how we can put the department wise condition in the workflow transition rules. 
+ - To apply the condition, first we need to fetch the department of the applicant in the webform automatically so that we can easily put the condition on the basis of fetched department.
+ - For this, we add some more users with different department and start making the database query to achieve our target.
+
+
+### :arrow_right: *DAY 77 (04/10/2022)*
+
+ - For the above task, first we need to add a field naming "Department" in the webform first in which the department be automatically fetched. 
+ - This task is quite challenging and we are continuously working on it. 
+ - We found that there is a column of department present in the employee table in the database.
+ - After a lot of testings we are yet unable to fetch the department and this examined our patience and struggle.
+
+
+### :arrow_right: *DAY 78 (05/10/2022)*
+
+Happy Dussehra!
+
+
+### :arrow_right: *DAY 79 (06/10/2022)*
+
+ - We are back and we continued our latest pending task form where we left it. 
+ - So after a lot of struggle, finally we make a query with the help of which we are able to fetch the department of employee who puts the request successfully.
+ - Below is database query:
+ --
+
+
+
+
+
+
 
 
