@@ -395,8 +395,8 @@ Sunday day - Fun day
 
  - Today we made some more users and some more roles related to Maintenance cell
  - Roles and users are:
- 1. SDE (Sub Divisional Engineer)
- 2. CMC Head (Head of Construction and Maintenance Cell).
+   -  SDE (Sub Divisional Engineer)
+   -  CMC Head (Head of Construction and Maintenance Cell).
  
 
 
