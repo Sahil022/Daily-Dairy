@@ -374,3 +374,36 @@ I was critically ill due to major loss of platelets and swelling in liver due to
 ### :arrow_right: *DAY 68 (25/09/2022)*
 
 Sunday day - Fun day 
+
+
+
+### :arrow_right: *DAY 69 (26/09/2022)*
+
+ - Today, I made some changes according to sir told me. Which I showed them and also to my team mates.
+ - Now we are facing an issue in the workflow, and the issue is that when an applicant puts his/her request, it showed to all the upper level users without taking any intermediate actions.What we want is that when an applicant put the request, the request will go to Hod and when he perform the forward action,only then the request should go to upper level. 
+ - Today, I invested my whole day to resolve the issue but doesn't reach at any conclusion, It disappointed me alot but a little patience is needed here.
+
+
+ ### :arrow_right: *DAY 70 (27/09/2022)*
+ 
+ - Today I'm back with much potential to resolve the issue and I'm exploring the relatable stuff with the help of internet.
+ - Parallely, our another project of Nankana Sahib Public School is also on its way. 
+ - Apart from this, I also read mails of my subordinates and another members on GD (Great Developers, an official Group on Email) and also contribute in them.
+ 
+
+### :arrow_right: *DAY 71 (28/09/2022)*
+
+ - Today we made some more users and some more roles related to Maintenance cell
+ - Roles and users are:
+   1.SDE (Sub Divisional Engineer)
+   2.CMC Head (Head of Construction and Maintenance Cell).
+ 
+
+
+
+
+
+
+
+
+
