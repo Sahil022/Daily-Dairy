@@ -1278,7 +1278,11 @@ Sunday - Fun day
 
 ### :arrow_right: *DAY 142 (10/12/2022)*
 
-- (On leave)
+- Today I am trying to solve the error multi_currency error.
+- Our whole CMC Project is pending due to this project.
+- I compare both doctypes in gne12 and on erp.
+- From this we found a solution to delete this option from backend.
+- After that bill generation works fine.
 
 
 ### :arrow_right: *DAY 143 (11/12/2022)*
