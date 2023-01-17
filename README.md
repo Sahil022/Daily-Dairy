@@ -607,19 +607,19 @@ function myFunction() {
 }
 ```
 
-### :arrow_right: *DAY 88 (10/10/2022)*
+### :arrow_right: *DAY 88 (16/10/2022)*
 
 Sunday - Fun day
 
 
-### :arrow_right: *DAY 89 (11/10/2022)*
+### :arrow_right: *DAY 89 (17/10/2022)*
 
 - Daily Diary work is done so I decided to gave an presentation on it.
 - In the afternoon I gave a presentation on the daily diary .
 - Also learn so much from my presentation also.
 
 
-### :arrow_right: *DAY 90 (12/10/2022)*
+### :arrow_right: *DAY 90 (18/10/2022)*
 
 ### *Finds the appropriate solution for upgrading Frappe v13 to Frappe v14*
 
@@ -641,7 +641,7 @@ Sunday - Fun day
 
 5- Check pip or pip3 version ( needs to be upgrade to 22.x )
 
-### :arrow_right: *DAY 91 (13/10/2022)*
+### :arrow_right: *DAY 91 (19/10/2022)*
 
 - Continue yesterday work.
 
@@ -672,7 +672,7 @@ sudo apt-get install python3-apt -y
 
 - In the step 8 I am facing an error.
 
-### :arrow_right: *DAY 92 (14/10/2022)*
+### :arrow_right: *DAY 92 (20/10/2022)*
 
 - At the Step 8 I am getting an error while upgrading the version of node.Which is resolve by the command nvm install node.
 
@@ -716,7 +716,7 @@ the virtual environment by the following command:-
 bench setup env
 ```
 
-### :arrow_right: *DAY 93 (15/10/2022)*
+### :arrow_right: *DAY 93 (21/10/2022)*
 
 
 12- Change git upstream from V13 to V14
@@ -756,12 +756,27 @@ After completing all the steps I get the following result.
 <br>
 
 
-### :arrow_right: *DAY 94 (16/10/2022)*
+### :arrow_right: *DAY 94 (23/10/2022)*
 
 Sunday - Fun day
 
 
-### :arrow_right: *DAY 95 (17/10/2022)*
+### :arrow_right: *DAY 95 (24/10/2022)*
+
+Happy Diwali
+
+
+### :arrow_right: *DAY 96 (25/11/2022)*
+
+Vishkarma Day
+
+
+### :arrow_right: *DAY 97 (26/11/2022)*
+
+Bhai Dooj
+
+
+### :arrow_right: *DAY 98 (27/11/2022)*
 
 ### *Complete the maximum work of Quotation and Estimate in CMC Project*
 
@@ -773,7 +788,7 @@ labour cost).
 - After that we find that there is some user permission for a user CMC Head which restricts the CMC Head to see the quotation list.
 
 
-### :arrow_right: *DAY 96 (18/10/2022)*
+### :arrow_right: *DAY 99 (28/10/2022)*
 
 - We add the custom script in Quotation doctype.( Grand Total = total_cost+ labour cost).
 - After that we discussed with Rai Sir in the evening meeting that there is no need to customize the quotation doctype. 
@@ -782,7 +797,7 @@ labour cost).
   
 
 
-### :arrow_right: *DAY 97 (19/10/2022)*
+### :arrow_right: *DAY 100 (29/10/2022)*
 
 ### *Today Task*
 - Finish 10% of Saturday's pending work which is When total_cost(in Quotation)>total_cost(in Bill) then it shows an alert message.
@@ -793,7 +808,12 @@ and the logic behind all the stuff.
 Only first task is completed and the second task is pending.
 
 
-### :arrow_right: *DAY 98 (20/10/2022)*
+### :arrow_right: *DAY 101 (30/10/2022)*
+
+Sunday- Fun day
+
+
+### :arrow_right: *DAY 102 (31/10/2022)*
 
 ### Work I do Today for completing the first task.
 - In the CMC Project we want the linking of Quotation,Sales Order and Sales Invoice with the CMC Request.
@@ -813,41 +833,9 @@ frappe.ui.form.on('Sales Invoice', {
 })
 ```
 
-### :arrow_right: *DAY 99 (21/10/2022)*
-
-- Today my work is to create a web page for the erp.gndec.ac.in
-- For this I click the photos of college campus 
-- From the Image I create a homepage of erp.gndec.ac.in
 
 
-### :arrow_right: *DAY 100 (22/10/2022)*
-
-- Today I helped veerpal in fetching the department in notice board.
-- Find the appropriate solution for the error(multi_currency error) which we get while creating the invoice. 
-- I am unnle to find the solution of that.
-
-
-### :arrow_right: *DAY 101 (23/10/2022)*
-
-Sunday- Fun day
-
-
-### :arrow_right: *DAY 102 (24/10/2022)*
-
-### Happy Diwali
-
-
-### :arrow_right: *DAY 103 (25/10/2022)*
-
-### Vishkarma Day
-
-
-### :arrow_right: *DAY 104 (26/10/2022)*
-
-## Bhai Dooj
-
-
-### :arrow_right: *DAY 105 (27/10/2022)*
+### :arrow_right: *DAY 103 (01/11/2022)*
 
 - Today Satinder Sir gave me work to explore how we can access other databases though ERPnext or Frappe.
 - While doing this task I find a answer of a question which was asked by the Rai Sir.
@@ -855,7 +843,7 @@ Sunday- Fun day
 - The answer is yes if we select "is virtual" option in doctype.
 
 
-### :arrow_right: *DAY 106 (28/10/2022)*
+### :arrow_right: *DAY 104 (02/11/2022)*
 
 - Add one user ( CMC CLERK ) which will handle the work after the estimate approved by cmc.
 - Like : sales order, Bill generation and so on.
@@ -865,24 +853,19 @@ Sunday- Fun day
 - In future if we send the quotation for the college purpose we can face some difficulties.
 
 
-### :arrow_right: *DAY 107 (29/10/2022)*
+### :arrow_right: *DAY 105 (03/11/2022)*
 
 - Today I am implementing the daily diary project on the gne5.gndec.ac.in
 - Same process which I discuss earlier.
 - Half the work is done rest the work I do tommorow.
 
 
-### :arrow_right: *DAY 108 (30/10/2022)*
-
-Sunday - Funday
-
-
-### :arrow_right: *DAY 109 (31/10/2022)*
+### :arrow_right: *DAY 106 (04/10/2022)*
 
 - Today I successfully create all the daily diary project on gne5.gndec.ac.in
 
 
-### :arrow_right: *DAY 110 (01/11/2022)*
+### :arrow_right: *DAY 107 (05/11/2022)*
 
 - Today I am trying to solve the error multi_currency error.
 - Our whole CMC Project is pending due to this project.
@@ -891,14 +874,18 @@ Sunday - Funday
 - After that bill generation works fine.
 
 
-### :arrow_right: *DAY 111 (02/11/2022)*
+### :arrow_right: *DAY 108 (06/11/2022)*
+
+Sunday - Fun day
+
+### :arrow_right: *DAY 109 (07/11/2022)*
 
 - Today Me and komal trying to upload the instructors on gne5.gndec.ac.in
 - When I try to upload the list of Instructors I want to upload more than one program and course of the respective instructor but in one list I can upload   only one course and program.
 - In this satinder sir gave an advice to first export the instructor file and then you try to upload that file.
 
 
-### :arrow_right: *DAY 112 (03/11/2022)*
+### :arrow_right: *DAY 110 (08/11/2022)*
 
 - Today we tried the solution asked by the satinder sir but it didn't work.
 - Finally I found the solution for this. 
@@ -906,18 +893,18 @@ Sunday - Funday
 - https://github.com/Simranjeet7860/Demo-Image/blob/main/Screenshot%20from%202022-12-02%2013-43-45.png
 
 
-### :arrow_right: *DAY 113 (04/11/2022)*
+### :arrow_right: *DAY 111 (09/11/2022)*
 
 - Today we import all the instructor on the erp.gndec.ac.in
 
 
-### :arrow_right: *DAY 114 (05/11/2022)*
+### :arrow_right: *DAY 112 (10/11/2022)*
 
 - In the CMC Project we need the department of every employee.
 - So we created the deaprtments of college.
 - Also assign roles to different employees.
 
-### :arrow_right: *DAY 115 (06/11/2022)*
+### :arrow_right: *DAY 113 (11/11/2022)*
 
 
 
