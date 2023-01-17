@@ -890,7 +890,6 @@ Sunday - Fun day
 - Today we tried the solution asked by the satinder sir but it didn't work.
 - Finally I found the solution for this. 
 - We can upload the Instructor with the following format.
-- https://github.com/Simranjeet7860/Demo-Image/blob/main/Screenshot%20from%202022-12-02%2013-43-45.png
 
 
 ### :arrow_right: *DAY 111 (09/11/2022)*
